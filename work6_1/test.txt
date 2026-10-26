@@ -1,0 +1,2399 @@
+1001
+Ivan Ivanov
+Moscow, Lenin street 10
+
+1002
+Maria Petrova
+Saint Petersburg, Nevsky 24
+
+1003
+John Smith
+New York, 5th Avenue 100
+
+1004
+Anna Sidorova
+Kazan, Bauman street 15
+
+1005
+Petr Smirnov
+Novosibirsk, Krasny avenue 33
+
+1006
+Olga Ivanova
+Yekaterinburg, Lenina street 48
+
+1007
+Sergey Kuznetsov
+Nizhny Novgorod, Gorkogo street 12
+
+1008
+Elena Morozova
+Samara, Revolution street 77
+
+1009
+Alexey Volkov
+Omsk, Karl Marx street 21
+
+1010
+Tatiana Fedorova
+Rostov-on-Don, Sadovaya street 54
+
+1011
+Dmitry Popov
+Ufa, October street 89
+
+1012
+Natalia Sokolova
+Krasnoyarsk, Mira street 13
+
+1013
+Andrey Lebedev
+Voronezh, Pobedy street 66
+
+1014
+Irina Kozlova
+Perm, Pushkina street 29
+
+1015
+Mikhail Novikov
+Volgograd, Sovetskaya street 42
+
+1016
+Svetlana Pavlova
+Krasnodar, Krasnaya street 18
+
+1017
+Pavel Stepanov
+Saratov, Chernyshevskogo street 35
+
+1018
+Yulia Orlova
+Tyumen, Respubliki street 51
+
+1019
+Vladimir Egorov
+Barnaul, Leninsky prospect 27
+
+1020
+Ekaterina Nikitina
+Irkutsk, Baikalskaya street 14
+
+1021
+Anton Makarov
+Khabarovsk, Muravyova-Amurskogo 8
+
+1022
+Marina Antonova
+Yaroslavl, Svoboda street 73
+
+1023
+Denis Zaitsev
+Vladivostok, Aleutskaya street 22
+
+1024
+Julia Fomina
+Tomsk, Vershinina street 39
+
+1025
+Artem Davidov
+Orenburg, Chkalova street 16
+
+1026
+Kristina Belyaeva
+Ryazan, Pravdy street 44
+
+1027
+Roman Medvedev
+Penza, Kirova street 31
+
+1028
+Alina Ershova
+Astrakhan, Tatishcheva street 58
+
+1029
+Maxim Gusev
+Lipetsk, Zegelya street 25
+
+1030
+Valeria Tikhomirova
+Kirov, Vorovskogo street 47
+
+1031
+Igor Frolov
+Chelyabinsk, Truda street 63
+
+1032
+Veronika Ignatieva
+Kaliningrad, Teatralnaya street 19
+
+1033
+Nikita Savelyev
+Bryansk, Dimitrova street 52
+
+1034
+Daria Romanova
+Tula, Sovetskaya street 36
+
+1035
+Grigory Osipov
+Stavropol, Dzerzhinskogo street 28
+
+1036
+Polina Potapova
+Ulyanovsk, Goncharova street 41
+
+1037
+Vadim Nesterov
+Izhevsk, Pushkinskaya street 55
+
+1038
+Karina Simonova
+Makhachkala, Imam Shamilya 17
+
+1039
+Stanislav Matveev
+Orel, Moskovskaya street 32
+
+1040
+Lydia Rodionova
+Kemerovo, Kirova street 49
+
+1041
+Evgeny Denisov
+Tver, Sovetskaya street 26
+
+1042
+Yana Zhukova
+Tambov, Internatsionalnaya 38
+
+1043
+Anatoly Rybakov
+Belgorod, Narodny boulevard 23
+
+1044
+Arina Maslova
+Kursk, Lenina street 45
+
+1045
+Vitaly Gordeev
+Vladimir, Bolshaya street 57
+
+1046
+Galina Usacheva
+Sochi, Navaginskaya street 11
+
+1047
+Timur Babanin
+Kaluga, Lenina street 34
+
+1048
+Milena Voronina
+Chita, Babushkina street 61
+
+1049
+Ruslan Klimov
+Smolensk, Bolshaya street 20
+
+1050
+Sofia Naumova
+Vologda, Mira street 43
+
+1051
+Fedor Shcherbakov
+Kurgan, Gagarina street 30
+
+1052
+Elizaveta Polyakova
+Arkhangelsk, Voskresenskaya 24
+
+1053
+Arkady Bolshakov
+Surgut, Engelsa street 53
+
+1054
+Valentina Vorobyova
+Yoshkar-Ola, Lenina street 37
+
+1055
+Georgy Gerasimov
+Kostroma, Simanovskogo 15
+
+1056
+Anastasia Tarasova
+Nalchik, Lenina street 46
+
+1057
+Rostislav Efimov
+Sterlitamak, Khudayberdina 29
+
+1058
+Margarita Davydova
+Blagoveshchensk, Lenina 33
+
+1059
+Semyon Melnikov
+Petrozavodsk, Leninsky 18
+
+1060
+Lyubov Solovyova
+Nizhnekamsk, Mira street 50
+
+1061
+Miron Vinogradov
+Dzerzhinsk, Gagarina street 27
+
+1062
+Nina Kudryashova
+Angarsk, K. Marksa street 39
+
+1063
+Boris Semyonov
+Novokuznetsk, Kirova 22
+
+1064
+Raisa Filatova
+Pskov, Sovetskaya street 41
+
+1065
+Leonid Komarov
+Syzran, Sovetskaya street 35
+
+1066
+Zoya Sorokina
+Prokopyevsk, Lenina street 48
+
+1067
+Egor Fadeev
+Norilsk, Leninsky prospect 16
+
+1068
+Violetta Bragina
+Khimki, Moskovskaya street 44
+
+1069
+Miroslav Andreev
+Podolsk, Kirova street 31
+
+1070
+Larisa Zueva
+Taganrog, Petrovskaya street 52
+
+1071
+Vsevolod Orlov
+Kopeysk, Lenina street 25
+
+1072
+Nadezhda Sizova
+Stary Oskol, Mikrorayon 13
+
+1073
+Zakhar Titov
+Veliky Novgorod, Bolshaya 19
+
+1074
+Ksenia Kuzmina
+Mytishchi, Kolontsova street 36
+
+1075
+Ippolit Ilyin
+Balashikha, Parkovaya street 42
+
+1076
+Tamara Gromova
+Korolyov, Tsiolkovskogo 28
+
+1077
+Vladlen Tikhonov
+Ulan-Ude, Borsoeva street 47
+
+1078
+Rimma Ovchinnikova
+Vladikavkaz, Mira street 23
+
+1079
+Rodion Voronov
+Magnitogorsk, K. Marksa 34
+
+1080
+Snezhana Solntseva
+Murmansk, Lenina street 40
+
+1081
+Gleb Zhdanov
+Cheboksary, K. Marxa street 29
+
+1082
+Alevtina Nosova
+Saratov, Chernyshevskogo 18
+
+1083
+Savva Kovalev
+Tver, Volodarskogo street 45
+
+1084
+Bella Shilova
+Kaluga, Teatralnaya street 32
+
+1085
+Demid Samsonov
+Ryazan, Pochtovaya street 51
+
+1086
+Dina Yakovleva
+Penza, Moskovskaya street 26
+
+1087
+Kapitolina Kazakova
+Orenburg, Chkalova street 38
+
+1088
+Frol Kirillov
+Lipetsk, Plekhanova street 21
+
+1089
+Zhanna Molchanova
+Astrakhan, Tatishcheva street 44
+
+1090
+Erast Avdeev
+Kirov, Vorovskogo street 33
+
+1091
+Zinaida Goryacheva
+Chelyabinsk, Truda street 49
+
+1092
+Lukyan Belousov
+Kaliningrad, Teatralnaya 27
+
+1093
+Rada Kuznetsova
+Bryansk, Dimitrova street 40
+
+1094
+Panteleimon Sharov
+Tula, Sovetskaya street 35
+
+1095
+Uliana Kalinina
+Stavropol, Dzerzhinskogo 22
+
+1096
+Prokhor Mironov
+Ulyanovsk, Goncharova 31
+
+1097
+Yaroslav Sidorov
+Izhevsk, Pushkinskaya street 46
+
+1098
+Bogdan Kiselev
+Makhachkala, Shamilya 19
+
+1099
+Lyudmila Titova
+Orel, Moskovskaya street 28
+
+1100
+Vissarion Yefremov
+Kemerovo, Kirova street 43
+
+1101
+Agniya Frolova
+Tver, Sovetskaya street 24
+
+1102
+Svyatoslav Sokolov
+Tambov, Internatsionalnaya 37
+
+1103
+Albina Abramova
+Belgorod, Narodny boulevard 26
+
+1104
+German Muravyov
+Kursk, Lenina street 41
+
+1105
+Zoya Voronina
+Vladimir, Bolshaya street 53
+
+1106
+Savely Grigoriev
+Sochi, Navaginskaya street 14
+
+1107
+Inessa Markova
+Kaluga, Lenina street 30
+
+1108
+Mstislav Kolesnikov
+Chita, Babushkina street 55
+
+1109
+Nina Petrova
+Smolensk, Bolshaya street 23
+
+1110
+Faina Alekseeva
+Vologda, Mira street 42
+
+1111
+Gennady Tretiakov
+Kurgan, Gagarina street 32
+
+1112
+Kira Belyakova
+Arkhangelsk, Voskresenskaya 27
+
+1113
+Vladislav Sviridov
+Surgut, Engelsa street 48
+
+1114
+Rosa Zimina
+Yoshkar-Ola, Lenina street 36
+
+1115
+Spartak Knyazev
+Kostroma, Simanovskogo 17
+
+1116
+Ada Chernova
+Nalchik, Lenina street 44
+
+1117
+Ivan Dmitriev
+Sterlitamak, Khudayberdina 31
+
+1118
+Emma Fomina
+Blagoveshchensk, Lenina 35
+
+1119
+Viktor Mikhailov
+Petrozavodsk, Leninsky 20
+
+1120
+Lina Vasilyeva
+Nizhnekamsk, Mira street 52
+
+1121
+Georgy Petrov
+Dzerzhinsk, Gagarina street 29
+
+1122
+Nadezhda Sokolova
+Angarsk, K. Marksa street 41
+
+1123
+Boris Nikolaev
+Novokuznetsk, Kirova 24
+
+1124
+Raisa Pavlova
+Pskov, Sovetskaya street 43
+
+1125
+Leonid Ivanov
+Syzran, Sovetskaya street 37
+
+1126
+Zoya Morozova
+Prokopyevsk, Lenina street 50
+
+1127
+Egor Sergeev
+Norilsk, Leninsky prospect 18
+
+1128
+Violetta Smirnova
+Khimki, Moskovskaya street 46
+
+1129
+Miroslav Kuznetsov
+Podolsk, Kirova street 33
+
+1130
+Larisa Popova
+Taganrog, Petrovskaya street 54
+
+1131
+Vsevolod Volkov
+Kopeysk, Lenina street 27
+
+1132
+Nadezhda Lebedeva
+Stary Oskol, Mikrorayon 15
+
+1133
+Zakhar Kozlov
+Veliky Novgorod, Bolshaya 21
+
+1134
+Ksenia Novikova
+Mytishchi, Kolontsova street 38
+
+1135
+Ippolit Morozov
+Balashikha, Parkovaya street 44
+
+1136
+Tamara Voronina
+Korolyov, Tsiolkovskogo 30
+
+1137
+Vladlen Alekseev
+Ulan-Ude, Borsoeva street 49
+
+1138
+Rimma Egorova
+Vladikavkaz, Mira street 25
+
+1139
+Rodion Pavlov
+Magnitogorsk, K. Marksa 36
+
+1140
+Snezhana Nikitina
+Murmansk, Lenina street 42
+
+1141
+Gleb Smirnov
+Cheboksary, K. Marxa street 31
+
+1142
+Alevtina Ivanova
+Saratov, Chernyshevskogo 20
+
+1143
+Savva Petrov
+Tver, Volodarskogo street 47
+
+1144
+Bella Sidorova
+Kaluga, Teatralnaya street 34
+
+1145
+Demid Kuzmin
+Ryazan, Pochtovaya street 53
+
+1146
+Dina Morozova
+Penza, Moskovskaya street 28
+
+1147
+Kapitolina Volkova
+Orenburg, Chkalova street 40
+
+1148
+Frol Solovyov
+Lipetsk, Plekhanova street 23
+
+1149
+Zhanna Pavlova
+Astrakhan, Tatishcheva street 46
+
+1150
+Erast Fedorov
+Kirov, Vorovskogo street 35
+
+1151
+Zinaida Mikhailova
+Chelyabinsk, Truda street 51
+
+1152
+Lukyan Semyonov
+Kaliningrad, Teatralnaya 29
+
+1153
+Rada Ivanova
+Bryansk, Dimitrova street 42
+
+1154
+Panteleimon Petrov
+Tula, Sovetskaya street 37
+
+1155
+Uliana Vasilyeva
+Stavropol, Dzerzhinskogo 24
+
+1156
+Prokhor Ivanov
+Ulyanovsk, Goncharova 33
+
+1157
+Yaroslav Smirnov
+Izhevsk, Pushkinskaya street 48
+
+1158
+Bogdan Popov
+Makhachkala, Shamilya 21
+
+1159
+Lyudmila Sokolova
+Orel, Moskovskaya street 30
+
+1160
+Vissarion Kuznetsov
+Kemerovo, Kirova street 45
+
+1161
+Agniya Morozova
+Tver, Sovetskaya street 26
+
+1162
+Svyatoslav Volkov
+Tambov, Internatsionalnaya 39
+
+1163
+Albina Smirnova
+Belgorod, Narodny boulevard 28
+
+1164
+German Ivanov
+Kursk, Lenina street 43
+
+1165
+Zoya Petrova
+Vladimir, Bolshaya street 55
+
+1166
+Savely Sidorov
+Sochi, Navaginskaya street 16
+
+1167
+Inessa Kuzmina
+Kaluga, Lenina street 32
+
+1168
+Mstislav Popov
+Chita, Babushkina street 57
+
+1169
+Nina Vasilyeva
+Smolensk, Bolshaya street 25
+
+1170
+Faina Ivanova
+Vologda, Mira street 44
+
+1171
+Gennady Smirnov
+Kurgan, Gagarina street 34
+
+1172
+Kira Petrovа
+Arkhangelsk, Voskresenskaya 29
+
+1173
+Vladislav Ivanov
+Surgut, Engelsa street 50
+
+1174
+Rosa Smirnova
+Yoshkar-Ola, Lenina street 38
+
+1175
+Spartak Kuznetsov
+Kostroma, Simanovskogo 19
+
+1176
+Ada Petrova
+Nalchik, Lenina street 46
+
+1177
+Ivan Smirnov
+Sterlitamak, Khudayberdina 33
+
+1178
+Emma Ivanova
+Blagoveshchensk, Lenina 37
+
+1179
+Viktor Petrov
+Petrozavodsk, Leninsky 22
+
+1180
+Lina Smirnova
+Nizhnekamsk, Mira street 54
+
+1181
+Georgy Ivanov
+Dzerzhinsk, Gagarina street 31
+
+1182
+Nadezhda Petrova
+Angarsk, K. Marksa street 43
+
+1183
+Boris Smirnov
+Novokuznetsk, Kirova 26
+
+1184
+Raisa Ivanova
+Pskov, Sovetskaya street 45
+
+1185
+Leonid Petrov
+Syzran, Sovetskaya street 39
+
+1186
+Zoya Smirnova
+Prokopyevsk, Lenina street 52
+
+1187
+Egor Ivanov
+Norilsk, Leninsky prospect 20
+
+1188
+Violetta Petrova
+Khimki, Moskovskaya street 48
+
+1189
+Miroslav Smirnov
+Podolsk, Kirova street 35
+
+1190
+Larisa Ivanova
+Taganrog, Petrovskaya street 56
+
+1191
+Vsevolod Petrov
+Kopeysk, Lenina street 29
+
+1192
+Nadezhda Smirnova
+Stary Oskol, Mikrorayon 17
+
+1193
+Zakhar Ivanov
+Veliky Novgorod, Bolshaya 23
+
+1194
+Ksenia Petrova
+Mytishchi, Kolontsova street 40
+
+1195
+Ippolit Smirnov
+Balashikha, Parkovaya street 46
+
+1196
+Tamara Ivanova
+Korolyov, Tsiolkovskogo 32
+
+1197
+Vladlen Petrov
+Ulan-Ude, Borsoeva street 51
+
+1198
+Rimma Smirnova
+Vladikavkaz, Mira street 27
+
+1199
+Rodion Ivanov
+Magnitogorsk, K. Marksa 38
+
+1200
+Snezhana Petrova
+Murmansk, Lenina street 44
+
+1201
+Gleb Smirnov
+Cheboksary, K. Marxa street 33
+
+1202
+Alevtina Ivanova
+Saratov, Chernyshevskogo 22
+
+1203
+Savva Petrov
+Tver, Volodarskogo street 49
+
+1204
+Bella Smirnova
+Kaluga, Teatralnaya street 36
+
+1205
+Demid Ivanov
+Ryazan, Pochtovaya street 55
+
+1206
+Dina Petrova
+Penza, Moskovskaya street 30
+
+1207
+Kapitolina Smirnova
+Orenburg, Chkalova street 42
+
+1208
+Frol Ivanov
+Lipetsk, Plekhanova street 25
+
+1209
+Zhanna Petrova
+Astrakhan, Tatishcheva street 48
+
+1210
+Erast Smirnov
+Kirov, Vorovskogo street 37
+
+1211
+Zinaida Ivanova
+Chelyabinsk, Truda street 53
+
+1212
+Lukyan Petrov
+Kaliningrad, Teatralnaya 31
+
+1213
+Rada Smirnova
+Bryansk, Dimitrova street 44
+
+1214
+Panteleimon Ivanov
+Tula, Sovetskaya street 39
+
+1215
+Uliana Petrova
+Stavropol, Dzerzhinskogo 26
+
+1216
+Prokhor Smirnov
+Ulyanovsk, Goncharova 35
+
+1217
+Yaroslav Ivanov
+Izhevsk, Pushkinskaya street 50
+
+1218
+Bogdan Petrov
+Makhachkala, Shamilya 23
+
+1219
+Lyudmila Smirnova
+Orel, Moskovskaya street 32
+
+1220
+Vissarion Ivanov
+Kemerovo, Kirova street 47
+
+1221
+Agniya Petrova
+Tver, Sovetskaya street 28
+
+1222
+Svyatoslav Smirnov
+Tambov, Internatsionalnaya 41
+
+1223
+Albina Ivanova
+Belgorod, Narodny boulevard 30
+
+1224
+German Petrov
+Kursk, Lenina street 45
+
+1225
+Zoya Smirnova
+Vladimir, Bolshaya street 57
+
+1226
+Savely Ivanov
+Sochi, Navaginskaya street 18
+
+1227
+Inessa Petrova
+Kaluga, Lenina street 34
+
+1228
+Mstislav Smirnov
+Chita, Babushkina street 59
+
+1229
+Nina Ivanova
+Smolensk, Bolshaya street 27
+
+1230
+Faina Petrova
+Vologda, Mira street 46
+
+1231
+Gennady Smirnov
+Kurgan, Gagarina street 36
+
+1232
+Kira Ivanova
+Arkhangelsk, Voskresenskaya 31
+
+1233
+Vladislav Petrov
+Surgut, Engelsa street 52
+
+1234
+Rosa Smirnova
+Yoshkar-Ola, Lenina street 40
+
+1235
+Spartak Ivanov
+Kostroma, Simanovskogo 21
+
+1236
+Ada Petrova
+Nalchik, Lenina street 48
+
+1237
+Ivan Smirnov
+Sterlitamak, Khudayberdina 35
+
+1238
+Emma Ivanova
+Blagoveshchensk, Lenina 39
+
+1239
+Viktor Petrov
+Petrozavodsk, Leninsky 24
+
+1240
+Lina Smirnova
+Nizhnekamsk, Mira street 56
+
+1241
+Georgy Ivanov
+Dzerzhinsk, Gagarina street 33
+
+1242
+Nadezhda Petrova
+Angarsk, K. Marksa street 45
+
+1243
+Boris Smirnov
+Novokuznetsk, Kirova 28
+
+1244
+Raisa Ivanova
+Pskov, Sovetskaya street 47
+
+1245
+Leonid Petrov
+Syzran, Sovetskaya street 41
+
+1246
+Zoya Smirnova
+Prokopyevsk, Lenina street 54
+
+1247
+Egor Ivanov
+Norilsk, Leninsky prospect 22
+
+1248
+Violetta Petrova
+Khimki, Moskovskaya street 50
+
+1249
+Miroslav Smirnov
+Podolsk, Kirova street 37
+
+1250
+Larisa Ivanova
+Taganrog, Petrovskaya street 58
+
+1251
+Vsevolod Petrov
+Kopeysk, Lenina street 31
+
+1252
+Nadezhda Smirnova
+Stary Oskol, Mikrorayon 19
+
+1253
+Zakhar Ivanov
+Veliky Novgorod, Bolshaya 25
+
+1254
+Ksenia Petrova
+Mytishchi, Kolontsova street 42
+
+1255
+Ippolit Smirnov
+Balashikha, Parkovaya street 48
+
+1256
+Tamara Ivanova
+Korolyov, Tsiolkovskogo 34
+
+1257
+Vladlen Petrov
+Ulan-Ude, Borsoeva street 53
+
+1258
+Rimma Smirnova
+Vladikavkaz, Mira street 29
+
+1259
+Rodion Ivanov
+Magnitogorsk, K. Marksa 40
+
+1260
+Snezhana Petrova
+Murmansk, Lenina street 46
+
+1261
+Gleb Smirnov
+Cheboksary, K. Marxa street 35
+
+1262
+Alevtina Ivanova
+Saratov, Chernyshevskogo 24
+
+1263
+Savva Petrov
+Tver, Volodarskogo street 51
+
+1264
+Bella Smirnova
+Kaluga, Teatralnaya street 38
+
+1265
+Demid Ivanov
+Ryazan, Pochtovaya street 57
+
+1266
+Dina Petrova
+Penza, Moskovskaya street 32
+
+1267
+Kapitolina Smirnova
+Orenburg, Chkalova street 44
+
+1268
+Frol Ivanov
+Lipetsk, Plekhanova street 27
+
+1269
+Zhanna Petrova
+Astrakhan, Tatishcheva street 50
+
+1270
+Erast Smirnov
+Kirov, Vorovskogo street 39
+
+1271
+Zinaida Ivanova
+Chelyabinsk, Truda street 55
+
+1272
+Lukyan Petrov
+Kaliningrad, Teatralnaya 33
+
+1273
+Rada Smirnova
+Bryansk, Dimitrova street 46
+
+1274
+Panteleimon Ivanov
+Tula, Sovetskaya street 41
+
+1275
+Uliana Petrova
+Stavropol, Dzerzhinskogo 28
+
+1276
+Prokhor Smirnov
+Ulyanovsk, Goncharova 37
+
+1277
+Yaroslav Ivanov
+Izhevsk, Pushkinskaya street 52
+
+1278
+Bogdan Petrov
+Makhachkala, Shamilya 25
+
+1279
+Lyudmila Smirnova
+Orel, Moskovskaya street 34
+
+1280
+Vissarion Ivanov
+Kemerovo, Kirova street 49
+
+1281
+Agniya Petrova
+Tver, Sovetskaya street 30
+
+1282
+Svyatoslav Smirnov
+Tambov, Internatsionalnaya 43
+
+1283
+Albina Ivanova
+Belgorod, Narodny boulevard 32
+
+1284
+German Petrov
+Kursk, Lenina street 47
+
+1285
+Zoya Smirnova
+Vladimir, Bolshaya street 59
+
+1286
+Savely Ivanov
+Sochi, Navaginskaya street 20
+
+1287
+Inessa Petrova
+Kaluga, Lenina street 36
+
+1288
+Mstislav Smirnov
+Chita, Babushkina street 61
+
+1289
+Nina Ivanova
+Smolensk, Bolshaya street 29
+
+1290
+Faina Petrova
+Vologda, Mira street 48
+
+1291
+Gennady Smirnov
+Kurgan, Gagarina street 38
+
+1292
+Kira Ivanova
+Arkhangelsk, Voskresenskaya 33
+
+1293
+Vladislav Petrov
+Surgut, Engelsa street 54
+
+1294
+Rosa Smirnova
+Yoshkar-Ola, Lenina street 42
+
+1295
+Spartak Ivanov
+Kostroma, Simanovskogo 23
+
+1296
+Ada Petrova
+Nalchik, Lenina street 50
+
+1297
+Ivan Smirnov
+Sterlitamak, Khudayberdina 37
+
+1298
+Emma Ivanova
+Blagoveshchensk, Lenina 41
+
+1299
+Viktor Petrov
+Petrozavodsk, Leninsky 26
+
+1300
+Lina Smirnova
+Nizhnekamsk, Mira street 58
+
+1301
+Aleksandr Nikolaev
+Moscow, Tverskaya street 15
+
+1302
+Ekaterina Voronina
+Saint Petersburg, Liteiny 33
+
+1303
+Daniil Sokolov
+Novosibirsk, Krasny prospect 77
+
+1304
+Anastasia Volkova
+Yekaterinburg, Malysheva 42
+
+1305
+Kirill Fedorov
+Kazan, Pushkina street 29
+
+1306
+Valeria Morozova
+Nizhny Novgorod, Bolshaya Pokrovskaya 18
+
+1307
+Artem Petrov
+Samara, Kuibysheva street 56
+
+1308
+Viktoria Egorova
+Omsk, Lenina street 64
+
+1309
+Maksim Alekseev
+Rostov-on-Don, Budennovskiy 22
+
+1310
+Polina Stepanova
+Ufa, Oktyabrya avenue 39
+
+1311
+Ilya Pavlov
+Krasnoyarsk, Dubrovinskogo 11
+
+1312
+Yana Kuznetsova
+Voronezh, Plekhanovskaya 25
+
+1313
+Matvey Ivanov
+Perm, Lenina street 73
+
+1314
+Arina Smirnova
+Volgograd, Mira street 48
+
+1315
+Timofey Vasiliev
+Krasnodar, Krasnaya street 31
+
+1316
+Alisa Popova
+Saratov, Moskovskaya 17
+
+1317
+Roman Semyonov
+Tyumen, Respubliki street 59
+
+1318
+Vera Kozlova
+Barnaul, Leninsky prospect 34
+
+1319
+Denis Mikhailov
+Irkutsk, Karl Marx street 26
+
+1320
+Milana Nikitina
+Khabarovsk, Serysheva 13
+
+1321
+Gleb Orlov
+Yaroslavl, Svoboda street 68
+
+1322
+Kristina Antonova
+Vladivostok, Svetlanskaya 41
+
+1323
+Evgeniy Zaitsev
+Tomsk, Lenina avenue 22
+
+1324
+Diana Fomina
+Orenburg, Sovetskaya street 55
+
+1325
+Andrey Davidov
+Ryazan, Pochtovaya 38
+
+1326
+Elizaveta Belyaeva
+Penza, Kirova street 47
+
+1327
+Nikolay Medvedev
+Astrakhan, Tatishcheva 31
+
+1328
+Sofiya Ershova
+Lipetsk, Plekhanova 19
+
+1329
+Vladimir Gusev
+Kirov, Vorovskogo 44
+
+1330
+Anna Tikhomirova
+Chelyabinsk, Truda street 52
+
+1331
+Pavel Frolov
+Kaliningrad, Teatralnaya 27
+
+1332
+Maria Ignatieva
+Bryansk, Dimitrova 36
+
+1333
+Konstantin Savelyev
+Tula, Sovetskaya street 41
+
+1334
+Yulia Romanova
+Stavropol, Dzerzhinskogo 23
+
+1335
+Sergey Osipov
+Ulyanovsk, Goncharova 29
+
+1336
+Anastasia Potapova
+Izhevsk, Pushkinskaya 51
+
+1337
+Anatoly Nesterov
+Makhachkala, Shamilya 15
+
+1338
+Elena Simonova
+Orel, Moskovskaya 37
+
+1339
+Boris Matveev
+Kemerovo, Kirova street 42
+
+1340
+Tatiana Rodionova
+Tver, Sovetskaya 28
+
+1341
+Stanislav Denisov
+Tambov, Internatsionalnaya 33
+
+1342
+Galina Zhukova
+Belgorod, Narodny 20
+
+1343
+Vadim Rybakov
+Kursk, Lenina street 46
+
+1344
+Marina Maslova
+Vladimir, Bolshaya 53
+
+1345
+Georgy Gordeev
+Sochi, Navaginskaya 14
+
+1346
+Olga Usacheva
+Kaluga, Lenina street 31
+
+1347
+Ruslan Babanin
+Chita, Babushkina 58
+
+1348
+Nadezhda Voronina
+Smolensk, Bolshaya 24
+
+1349
+Fedor Klimov
+Vologda, Mira street 40
+
+1350
+Lyudmila Naumova
+Kurgan, Gagarina 27
+
+1351
+Arkady Shcherbakov
+Arkhangelsk, Voskresenskaya 22
+
+1352
+Raisa Polyakova
+Surgut, Engelsa 49
+
+1353
+Leonid Bolshakov
+Yoshkar-Ola, Lenina 35
+
+1354
+Zinaida Vorobyova
+Kostroma, Simanovskogo 16
+
+1355
+Semyon Gerasimov
+Nalchik, Lenina street 43
+
+1356
+Tamara Tarasova
+Sterlitamak, Khudayberdina 30
+
+1357
+Miron Efimov
+Blagoveshchensk, Lenina 32
+
+1358
+Rimma Davydova
+Petrozavodsk, Leninsky 17
+
+1359
+Zakhar Melnikov
+Nizhnekamsk, Mira street 49
+
+1360
+Ksenia Solovyova
+Dzerzhinsk, Gagarina 26
+
+1361
+Ippolit Vinogradov
+Angarsk, Marksa 38
+
+1362
+Tamara Kudryashova
+Novokuznetsk, Kirova 21
+
+1363
+Vladlen Semyonov
+Pskov, Sovetskaya 40
+
+1364
+Rosa Filatova
+Syzran, Sovetskaya 34
+
+1365
+Rodion Komarov
+Prokopyevsk, Lenina 47
+
+1366
+Snezhana Sorokina
+Norilsk, Leninsky 15
+
+1367
+Gleb Fadeev
+Khimki, Moskovskaya 43
+
+1368
+Alevtina Bragina
+Podolsk, Kirova 30
+
+1369
+Savva Andreev
+Taganrog, Petrovskaya 51
+
+1370
+Bella Zueva
+Kopeysk, Lenina 24
+
+1371
+Demid Orlov
+Stary Oskol, Mikrorayon 12
+
+1372
+Dina Sizova
+Veliky Novgorod, Bolshaya 18
+
+1373
+Kapitolina Titov
+Mytishchi, Kolontsova 35
+
+1374
+Frol Kuzmina
+Balashikha, Parkovaya 41
+
+1375
+Zhanna Ilyin
+Korolyov, Tsiolkovskogo 27
+
+1376
+Erast Gromova
+Ulan-Ude, Borsoeva 46
+
+1377
+Zinaida Tikhonov
+Vladikavkaz, Mira 22
+
+1378
+Lukyan Ovchinnikova
+Magnitogorsk, Marksa 33
+
+1379
+Rada Voronov
+Murmansk, Lenina 39
+
+1380
+Panteleimon Solntseva
+Cheboksary, Marxa 28
+
+1381
+Uliana Zhdanov
+Saratov, Chernyshevskogo 17
+
+1382
+Prokhor Nosova
+Tver, Volodarskogo 44
+
+1383
+Yaroslav Kovalev
+Kaluga, Teatralnaya 31
+
+1384
+Bogdan Shilova
+Ryazan, Pochtovaya 50
+
+1385
+Lyudmila Samsonov
+Penza, Moskovskaya 25
+
+1386
+Vissarion Yakovleva
+Orenburg, Chkalova 37
+
+1387
+Agniya Kazakova
+Lipetsk, Plekhanova 20
+
+1388
+Svyatoslav Kirillov
+Astrakhan, Tatishcheva 43
+
+1389
+Albina Molchanova
+Kirov, Vorovskogo 32
+
+1390
+German Avdeev
+Chelyabinsk, Truda street 48
+
+1391
+Zoya Goryacheva
+Kaliningrad, Teatralnaya 26
+
+1392
+Savely Belousov
+Bryansk, Dimitrova 39
+
+1393
+Inessa Kuznetsova
+Tula, Sovetskaya 34
+
+1394
+Mstislav Sharov
+Stavropol, Dzerzhinskogo 21
+
+1395
+Nina Kalinina
+Ulyanovsk, Goncharova 30
+
+1396
+Faina Mironov
+Izhevsk, Pushkinskaya 45
+
+1397
+Gennady Sidorov
+Makhachkala, Shamilya 18
+
+1398
+Kira Kiselev
+Orel, Moskovskaya 29
+
+1399
+Vladislav Titova
+Kemerovo, Kirova 42
+
+1400
+Rosa Yefremov
+Tver, Sovetskaya 25
+
+1401
+Spartak Frolova
+Tambov, Internatsionalnaya 36
+
+1402
+Ada Sokolov
+Belgorod, Narodny 25
+
+1403
+Ivan Abramova
+Kursk, Lenina street 42
+
+1404
+Emma Muravyov
+Vladimir, Bolshaya 52
+
+1405
+Viktor Voronina
+Sochi, Navaginskaya 13
+
+1406
+Lina Grigoriev
+Kaluga, Lenina street 29
+
+1407
+Georgy Markova
+Chita, Babushkina 54
+
+1408
+Nadezhda Kolesnikov
+Smolensk, Bolshaya 22
+
+1409
+Boris Petrova
+Vologda, Mira street 41
+
+1410
+Raisa Alekseeva
+Kurgan, Gagarina 31
+
+1411
+Leonid Tretiakov
+Arkhangelsk, Voskresenskaya 26
+
+1412
+Zoya Belyakova
+Surgut, Engelsa 47
+
+1413
+Egor Sviridov
+Yoshkar-Ola, Lenina 35
+
+1414
+Violetta Zimina
+Kostroma, Simanovskogo 16
+
+1415
+Miroslav Knyazev
+Nalchik, Lenina street 43
+
+1416
+Larisa Chernova
+Sterlitamak, Khudayberdina 30
+
+1417
+Vsevolod Dmitriev
+Blagoveshchensk, Lenina 32
+
+1418
+Nadezhda Fomina
+Petrozavodsk, Leninsky 17
+
+1419
+Zakhar Mikhailov
+Nizhnekamsk, Mira street 49
+
+1420
+Ksenia Vasilyeva
+Dzerzhinsk, Gagarina 26
+
+1421
+Ippolit Petrov
+Angarsk, Marksa 38
+
+1422
+Tamara Sokolova
+Novokuznetsk, Kirova 21
+
+1423
+Vladlen Nikolaev
+Pskov, Sovetskaya 40
+
+1424
+Rosa Pavlova
+Syzran, Sovetskaya 34
+
+1425
+Rodion Ivanov
+Prokopyevsk, Lenina 47
+
+1426
+Snezhana Morozova
+Norilsk, Leninsky 15
+
+1427
+Gleb Sergeev
+Khimki, Moskovskaya 43
+
+1428
+Alevtina Smirnova
+Podolsk, Kirova 30
+
+1429
+Savva Kuznetsov
+Taganrog, Petrovskaya 51
+
+1430
+Bella Popova
+Kopeysk, Lenina 24
+
+1431
+Demid Volkov
+Stary Oskol, Mikrorayon 12
+
+1432
+Dina Lebedeva
+Veliky Novgorod, Bolshaya 18
+
+1433
+Kapitolina Kozlov
+Mytishchi, Kolontsova 35
+
+1434
+Frol Novikova
+Balashikha, Parkovaya 41
+
+1435
+Zhanna Morozov
+Korolyov, Tsiolkovskogo 27
+
+1436
+Erast Voronina
+Ulan-Ude, Borsoeva 46
+
+1437
+Zinaida Alekseev
+Vladikavkaz, Mira 22
+
+1438
+Lukyan Egorova
+Magnitogorsk, Marksa 33
+
+1439
+Rada Pavlov
+Murmansk, Lenina 39
+
+1440
+Panteleimon Nikitina
+Cheboksary, Marxa 28
+
+1441
+Uliana Smirnov
+Saratov, Chernyshevskogo 17
+
+1442
+Prokhor Ivanova
+Tver, Volodarskogo 44
+
+1443
+Yaroslav Petrov
+Kaluga, Teatralnaya 31
+
+1444
+Bogdan Sidorova
+Ryazan, Pochtovaya 50
+
+1445
+Lyudmila Kuzmin
+Penza, Moskovskaya 25
+
+1446
+Vissarion Morozova
+Orenburg, Chkalova 37
+
+1447
+Agniya Volkova
+Lipetsk, Plekhanova 20
+
+1448
+Svyatoslav Solovyov
+Astrakhan, Tatishcheva 43
+
+1449
+Albina Pavlova
+Kirov, Vorovskogo 32
+
+1450
+German Fedorov
+Chelyabinsk, Truda street 48
+
+1451
+Zoya Mikhailova
+Kaliningrad, Teatralnaya 26
+
+1452
+Savely Semyonov
+Bryansk, Dimitrova 39
+
+1453
+Inessa Ivanova
+Tula, Sovetskaya 34
+
+1454
+Mstislav Petrov
+Stavropol, Dzerzhinskogo 21
+
+1455
+Nina Vasilyeva
+Ulyanovsk, Goncharova 30
+
+1456
+Faina Ivanov
+Izhevsk, Pushkinskaya 45
+
+1457
+Gennady Smirnov
+Makhachkala, Shamilya 18
+
+1458
+Kira Popov
+Orel, Moskovskaya 29
+
+1459
+Vladislav Sokolova
+Kemerovo, Kirova 42
+
+1460
+Rosa Kuznetsov
+Tver, Sovetskaya 25
+
+1461
+Spartak Morozova
+Tambov, Internatsionalnaya 36
+
+1462
+Ada Volkov
+Belgorod, Narodny 25
+
+1463
+Ivan Smirnova
+Kursk, Lenina street 42
+
+1464
+Emma Ivanov
+Vladimir, Bolshaya 52
+
+1465
+Viktor Petrova
+Sochi, Navaginskaya 13
+
+1466
+Lina Sidorov
+Kaluga, Lenina street 29
+
+1467
+Georgy Kuzmina
+Chita, Babushkina 54
+
+1468
+Nadezhda Popov
+Smolensk, Bolshaya 22
+
+1469
+Boris Vasilyeva
+Vologda, Mira street 41
+
+1470
+Raisa Ivanova
+Kurgan, Gagarina 31
+
+1471
+Leonid Smirnov
+Arkhangelsk, Voskresenskaya 26
+
+1472
+Zoya Petrovа
+Surgut, Engelsa 47
+
+1473
+Egor Ivanov
+Yoshkar-Ola, Lenina 35
+
+1474
+Violetta Smirnova
+Kostroma, Simanovskogo 16
+
+1475
+Miroslav Kuznetsov
+Nalchik, Lenina street 43
+
+1476
+Larisa Petrova
+Sterlitamak, Khudayberdina 30
+
+1477
+Vsevolod Smirnov
+Blagoveshchensk, Lenina 32
+
+1478
+Nadezhda Ivanova
+Petrozavodsk, Leninsky 17
+
+1479
+Zakhar Petrov
+Nizhnekamsk, Mira street 49
+
+1480
+Ksenia Smirnova
+Dzerzhinsk, Gagarina 26
+
+1481
+Ippolit Ivanov
+Angarsk, Marksa 38
+
+1482
+Tamara Petrova
+Novokuznetsk, Kirova 21
+
+1483
+Vladlen Smirnov
+Pskov, Sovetskaya 40
+
+1484
+Rosa Ivanova
+Syzran, Sovetskaya 34
+
+1485
+Rodion Petrov
+Prokopyevsk, Lenina 47
+
+1486
+Snezhana Smirnova
+Norilsk, Leninsky 15
+
+1487
+Gleb Ivanov
+Khimki, Moskovskaya 43
+
+1488
+Alevtina Petrova
+Podolsk, Kirova 30
+
+1489
+Savva Smirnov
+Taganrog, Petrovskaya 51
+
+1490
+Bella Ivanova
+Kopeysk, Lenina 24
+
+1491
+Demid Petrov
+Stary Oskol, Mikrorayon 12
+
+1492
+Dina Smirnova
+Veliky Novgorod, Bolshaya 18
+
+1493
+Kapitolina Ivanov
+Mytishchi, Kolontsova 35
+
+1494
+Frol Petrova
+Balashikha, Parkovaya 41
+
+1495
+Zhanna Smirnov
+Korolyov, Tsiolkovskogo 27
+
+1496
+Erast Ivanova
+Ulan-Ude, Borsoeva 46
+
+1497
+Zinaida Petrov
+Vladikavkaz, Mira 22
+
+1498
+Lukyan Smirnova
+Magnitogorsk, Marksa 33
+
+1499
+Rada Ivanov
+Murmansk, Lenina 39
+
+1500
+Panteleimon Petrova
+Cheboksary, Marxa 28
+
+1501
+Uliana Smirnov
+Saratov, Chernyshevskogo 17
+
+1502
+Prokhor Ivanova
+Tver, Volodarskogo 44
+
+1503
+Yaroslav Petrov
+Kaluga, Teatralnaya 31
+
+1504
+Bogdan Smirnova
+Ryazan, Pochtovaya 50
+
+1505
+Lyudmila Ivanov
+Penza, Moskovskaya 25
+
+1506
+Vissarion Petrova
+Orenburg, Chkalova 37
+
+1507
+Agniya Smirnov
+Lipetsk, Plekhanova 20
+
+1508
+Svyatoslav Ivanova
+Astrakhan, Tatishcheva 43
+
+1509
+Albina Petrov
+Kirov, Vorovskogo 32
+
+1510
+German Smirnova
+Chelyabinsk, Truda street 48
+
+1511
+Zoya Ivanov
+Kaliningrad, Teatralnaya 26
+
+1512
+Savely Petrova
+Bryansk, Dimitrova 39
+
+1513
+Inessa Smirnov
+Tula, Sovetskaya 34
+
+1514
+Mstislav Ivanova
+Stavropol, Dzerzhinskogo 21
+
+1515
+Nina Petrov
+Ulyanovsk, Goncharova 30
+
+1516
+Faina Smirnova
+Izhevsk, Pushkinskaya 45
+
+1517
+Gennady Ivanov
+Makhachkala, Shamilya 18
+
+1518
+Kira Petrova
+Orel, Moskovskaya 29
+
+1519
+Vladislav Smirnov
+Kemerovo, Kirova 42
+
+1520
+Rosa Ivanova
+Tver, Sovetskaya 25
+
+1521
+Spartak Petrov
+Tambov, Internatsionalnaya 36
+
+1522
+Ada Smirnova
+Belgorod, Narodny 25
+
+1523
+Ivan Ivanov
+Kursk, Lenina street 42
+
+1524
+Emma Petrova
+Vladimir, Bolshaya 52
+
+1525
+Viktor Smirnov
+Sochi, Navaginskaya 13
+
+1526
+Lina Ivanova
+Kaluga, Lenina street 29
+
+1527
+Georgy Petrov
+Chita, Babushkina 54
+
+1528
+Nadezhda Smirnova
+Smolensk, Bolshaya 22
+
+1529
+Boris Ivanov
+Vologda, Mira street 41
+
+1530
+Raisa Petrova
+Kurgan, Gagarina 31
+
+1531
+Leonid Smirnov
+Arkhangelsk, Voskresenskaya 26
+
+1532
+Zoya Ivanova
+Surgut, Engelsa 47
+
+1533
+Egor Petrov
+Yoshkar-Ola, Lenina 35
+
+1534
+Violetta Smirnova
+Kostroma, Simanovskogo 16
+
+1535
+Miroslav Ivanov
+Nalchik, Lenina street 43
+
+1536
+Larisa Petrova
+Sterlitamak, Khudayberdina 30
+
+1537
+Vsevolod Smirnov
+Blagoveshchensk, Lenina 32
+
+1538
+Nadezhda Ivanova
+Petrozavodsk, Leninsky 17
+
+1539
+Zakhar Petrov
+Nizhnekamsk, Mira street 49
+
+1540
+Ksenia Smirnova
+Dzerzhinsk, Gagarina 26
+
+1541
+Ippolit Ivanov
+Angarsk, Marksa 38
+
+1542
+Tamara Petrova
+Novokuznetsk, Kirova 21
+
+1543
+Vladlen Smirnov
+Pskov, Sovetskaya 40
+
+1544
+Rosa Ivanova
+Syzran, Sovetskaya 34
+
+1545
+Rodion Petrov
+Prokopyevsk, Lenina 47
+
+1546
+Snezhana Smirnova
+Norilsk, Leninsky 15
+
+1547
+Gleb Ivanov
+Khimki, Moskovskaya 43
+
+1548
+Alevtina Petrova
+Podolsk, Kirova 30
+
+1549
+Savva Smirnov
+Taganrog, Petrovskaya 51
+
+1550
+Bella Ivanova
+Kopeysk, Lenina 24
+
+1551
+Demid Petrov
+Stary Oskol, Mikrorayon 12
+
+1552
+Dina Smirnova
+Veliky Novgorod, Bolshaya 18
+
+1553
+Kapitolina Ivanov
+Mytishchi, Kolontsova 35
+
+1554
+Frol Petrova
+Balashikha, Parkovaya 41
+
+1555
+Zhanna Smirnov
+Korolyov, Tsiolkovskogo 27
+
+1556
+Erast Ivanova
+Ulan-Ude, Borsoeva 46
+
+1557
+Zinaida Petrov
+Vladikavkaz, Mira 22
+
+1558
+Lukyan Smirnova
+Magnitogorsk, Marksa 33
+
+1559
+Rada Ivanov
+Murmansk, Lenina 39
+
+1560
+Panteleimon Petrova
+Cheboksary, Marxa 28
+
+1561
+Uliana Smirnov
+Saratov, Chernyshevskogo 17
+
+1562
+Prokhor Ivanova
+Tver, Volodarskogo 44
+
+1563
+Yaroslav Petrov
+Kaluga, Teatralnaya 31
+
+1564
+Bogdan Smirnova
+Ryazan, Pochtovaya 50
+
+1565
+Lyudmila Ivanov
+Penza, Moskovskaya 25
+
+1566
+Vissarion Petrova
+Orenburg, Chkalova 37
+
+1567
+Agniya Smirnov
+Lipetsk, Plekhanova 20
+
+1568
+Svyatoslav Ivanova
+Astrakhan, Tatishcheva 43
+
+1569
+Albina Petrov
+Kirov, Vorovskogo 32
+
+1570
+German Smirnova
+Chelyabinsk, Truda street 48
+
+1571
+Zoya Ivanov
+Kaliningrad, Teatralnaya 26
+
+1572
+Savely Petrova
+Bryansk, Dimitrova 39
+
+1573
+Inessa Smirnov
+Tula, Sovetskaya 34
+
+1574
+Mstislav Ivanova
+Stavropol, Dzerzhinskogo 21
+
+1575
+Nina Petrov
+Ulyanovsk, Goncharova 30
+
+1576
+Faina Smirnova
+Izhevsk, Pushkinskaya 45
+
+1577
+Gennady Ivanov
+Makhachkala, Shamilya 18
+
+1578
+Kira Petrova
+Orel, Moskovskaya 29
+
+1579
+Vladislav Smirnov
+Kemerovo, Kirova 42
+
+1580
+Rosa Ivanova
+Tver, Sovetskaya 25
+
+1581
+Spartak Petrov
+Tambov, Internatsionalnaya 36
+
+1582
+Ada Smirnova
+Belgorod, Narodny 25
+
+1583
+Ivan Ivanov
+Kursk, Lenina street 42
+
+1584
+Emma Petrova
+Vladimir, Bolshaya 52
+
+1585
+Viktor Smirnov
+Sochi, Navaginskaya 13
+
+1586
+Lina Ivanova
+Kaluga, Lenina street 29
+
+1587
+Georgy Petrov
+Chita, Babushkina 54
+
+1588
+Nadezhda Smirnova
+Smolensk, Bolshaya 22
+
+1589
+Boris Ivanov
+Vologda, Mira street 41
+
+1590
+Raisa Petrova
+Kurgan, Gagarina 31
+
+1591
+Leonid Smirnov
+Arkhangelsk, Voskresenskaya 26
+
+1592
+Zoya Ivanova
+Surgut, Engelsa 47
+
+1593
+Egor Petrov
+Yoshkar-Ola, Lenina 35
+
+1594
+Violetta Smirnova
+Kostroma, Simanovskogo 16
+
+1595
+Miroslav Ivanov
+Nalchik, Lenina street 43
+
+1596
+Larisa Petrova
+Sterlitamak, Khudayberdina 30
+
+1597
+Vsevolod Smirnov
+Blagoveshchensk, Lenina 32
+
+1598
+Nadezhda Ivanova
+Petrozavodsk, Leninsky 17
+
+1599
+Zakhar Petrov
+Nizhnekamsk, Mira street 49
+
+1600
+Ksenia Smirnova
+Dzerzhinsk, Gagarina 26

@@ -1,0 +1,12 @@
+1001
+Ivan Ivanov
+Moscow, Lenin street 10
+
+1002
+Maria Petrova
+Saint Petersburg, Nevsky 24
+
+1003
+John Smith
+New York, 5th Avenue 100
+
